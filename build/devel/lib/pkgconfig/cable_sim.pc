@@ -1,8 +1,0 @@
-prefix=/home/bigss/research/cable_sim/build/devel
-
-Name: cable_sim
-Description: Description of cable_sim
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: gazebo_plugins gazebo_ros geometry_msgs roscpp rospy std_msgs tf
