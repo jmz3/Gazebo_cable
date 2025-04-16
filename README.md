@@ -1,6 +1,6 @@
 # Gazebo_cable
 
-<img src="/doc/cable_demo07042024.gif" width="500">
+<img src="/doc/cable_demo07042024.gif" width="650">
 
 A gazebo model of a cable with a hook at the end. Ideally used for simulating any kind of linear deformable object.
 
