@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ROS 2
+build/
+install/
+log/
+
+# ROS 1
+devel/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*~
+*.swp
+*.swo
